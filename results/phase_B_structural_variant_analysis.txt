@@ -30,4 +30,10 @@ M154 is not included in the HELIX or SHEET records reported in the 3ZR9 PDB file
 
 Limitations:
 Structural proximity alone does not establish an effect on enzyme activity, antibiotic resistance, stability, or fitness.
-M154L was not experimentally tested or experimentally determined in this analysis.
+M154L was not experimentally tested in the present analysis; published studies have independently investigated this variant.
+
+Published evidence - NDM-4 (M154L):
+NDM-4 differs from NDM-1 at position 154 in the selected sequence comparison: M154L.
+Published experimental work has investigated NDM-4 (M154L) and reported changes in zinc-binding behavior and resistance under zinc-limited conditions.
+These published findings provide biological context for the structural proximity observed in the 3ZR9 NDM-1 structure.
+The published experimental findings are not treated as results of the present structural-coordinate analysis.
