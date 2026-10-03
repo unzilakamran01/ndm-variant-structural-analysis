@@ -11,3 +11,38 @@ Zn instances: 1
 
 Source:
 RCSB Protein Data Bank — PDB 3ZR9
+
+STRUCTURAL EVIDENCE — 3ZR9
+
+Primary structural source:
+Green VL, Verma A, Owens RJ, Phillips SE, Carr SB. (2011).
+Structure of New Delhi metallo-beta-lactamase 1 (NDM-1).
+Acta Crystallogr Sect F Struct Biol Cryst Commun, 67, 1160-1164.
+PDB: 3ZR9.
+
+Experimental evidence:
+The 3ZR9 structure was determined by X-ray diffraction at
+1.91 Å resolution. The structure contains one protein chain
+(Chain A), corresponding to NDM-1 from Klebsiella pneumoniae.
+The deposited structure contains 231 modeled residues.
+
+Structural interpretation:
+The primary structural study reports the NDM-1 active site
+in the context of other NDM-1 structures. NDM-1 belongs to the
+metallo-beta-lactamase family, in which metal ions are central
+to catalytic activity. Structural literature identifies
+His120, His122, His189, Asp124, Cys208 and His250 as conserved
+metal-binding residues of the NDM-1 active site.
+
+Evidence boundary:
+The residue-level active-site interpretation is based on the
+structural literature, not inferred from the RCSB sequence
+annotation interface. The RCSB deposited-coordinate record
+lists ligand instances separately; therefore ligand-instance
+counts are not being treated as a direct measurement of the
+number of catalytically active metal ions.
+
+Sources:
+RCSB Protein Data Bank — PDB 3ZR9
+Primary paper — Green et al. (2011)
+PubMed PMID: 22102018
