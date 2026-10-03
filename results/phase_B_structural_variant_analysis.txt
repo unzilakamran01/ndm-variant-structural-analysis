@@ -1,0 +1,33 @@
+Phase B - Structural Variant Analysis
+Structure: PDB 3ZR9, Chain A
+Reference: NDM-1 (UniProt C7C422)
+
+Selected variants:
+V88L
+D130N
+M154L
+
+Minimum distance to selected active-site residues:
+V88: 9.72 Å
+D130: 10.83 Å
+M154: 3.77 Å
+
+M154-His122 side-chain minimum distance:
+5.94 Å
+Closest side-chain atoms: M154 CG -> His122 CB
+Interpretation:
+M154 is closer to the selected active-site region than V88 and D130 in this structure.
+The 3.77 Å measurement involves the His122 backbone carbon and is not treated as evidence of a direct side-chain interaction.
+M154-His122 side-chain distance is 5.94 Å.
+
+M154 local environment includes His122, Gln123, Met126, Gly127 and Glu152.
+
+M154L changes a sulfur-containing methionine side chain to the hydrocarbon side chain of leucine.
+Both residues are hydrophobic.
+
+Secondary-structure evidence:
+M154 is not included in the HELIX or SHEET records reported in the 3ZR9 PDB file.
+
+Limitations:
+Structural proximity alone does not establish an effect on enzyme activity, antibiotic resistance, stability, or fitness.
+M154L was not experimentally tested or experimentally determined in this analysis.
