@@ -1,0 +1,13 @@
+PDB STRUCTURE RECORD — 3ZR9
+
+PDB ID: 3ZR9
+Protein: NDM-1 beta-lactamase
+Organism: Klebsiella pneumoniae
+Chain: A
+Experimental method: X-ray diffraction
+Resolution: 1.91 Å
+Modeled residues: 231
+Zn instances: 1
+
+Source:
+RCSB Protein Data Bank — PDB 3ZR9
