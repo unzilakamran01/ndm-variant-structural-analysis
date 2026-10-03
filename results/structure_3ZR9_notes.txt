@@ -46,3 +46,24 @@ Sources:
 RCSB Protein Data Bank — PDB 3ZR9
 Primary paper — Green et al. (2011)
 PubMed PMID: 22102018
+EVIDENCE CLASSIFICATION
+
+PDB-record facts:
+These include the PDB ID, organism, chain, experimental method,
+resolution and modeled residue count. These facts are taken from
+the RCSB PDB record for 3ZR9.
+
+Primary-paper evidence:
+The active-site and metal-coordination description is based on
+the primary structural study of NDM-1 associated with 3ZR9.
+
+Our interpretation:
+The structural information is used to connect the NDM-1 protein
+to its active-site architecture and metal-dependent catalytic
+function. This interpretation is kept separate from directly
+reported PDB-record facts.
+
+Important limitation:
+The presence and identity of metal ions in a deposited crystal
+structure should not be interpreted simply as the biological
+metal composition of the enzyme under all conditions.
