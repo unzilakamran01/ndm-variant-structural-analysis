@@ -1,0 +1,5 @@
+variant,record_count,total_clusters,median_cluster_size,very_large_clusters,selection_reason
+blaNDM-1,16046,1823,2,29,Highest representation in the analyzed dataset; selected as the primary reference comparator
+blaNDM-5,10124,807,3,19,Second major determinant with substantial representation and distinct temporal/geographic representation
+blaNDM-4,988,89,4,6,Lower representation but a notably different cluster-size distribution
+blaNDM-7,1184,194,3,4,Substantial representation with a distinct pattern in cluster-threshold sensitivity analysis

@@ -1,0 +1,23 @@
+Phase B - Sequence Comparison
+
+Reference: NDM-1 (UniProt C7C422)
+
+Sequences analyzed:
+NDM-1 - C7C422 - 270 aa
+NDM-4 - A0A0G2ST15 - 270 aa
+NDM-5 - U5TTL2 - 270 aa
+NDM-7 - X5CZV5 - 270 aa
+
+All four sequences were 270 amino acids and were compared position by position.
+
+Sequence differences relative to NDM-1:
+Position 88: NDM-5 V88L
+Position 130: NDM-7 D130N
+Position 154: NDM-4 M154L; NDM-5 M154L; NDM-7 M154L
+
+Interpretation:
+The comparison identified three variable positions among the four selected NDM sequences. M154L is shared by NDM-4, NDM-5, and NDM-7, while V88L is specific to NDM-5 and D130N is specific to NDM-7 in this comparison.
+
+These sequence differences are candidates for subsequent structural characterization. Sequence differences alone do not establish effects on enzyme activity, stability, antibiotic resistance, or fitness.
+
+Numbering: Primary-sequence numbering.

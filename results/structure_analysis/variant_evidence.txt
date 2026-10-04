@@ -1,0 +1,48 @@
+NDM-1 VARIANT STRUCTURAL EVIDENCE
+Experimental structure: PDB 3ZR9
+Chain: A
+
+Zn coordinate:
+19.050, 16.428, 19.274
+
+Observed close Zn contacts:
+His120-NE2 = 2.15 Å
+His122-ND1 = 1.98 Å
+His189-NE2 = 2.16 Å
+
+NDM-4
+Sequence change: M154L
+M154-SD to Zn: 9.33 Å
+Closest observed M154-SD contact:
+His122 backbone C = 3.77 Å
+
+Interpretation:
+M154 is not a direct Zn ligand.
+M154L retains hydrophobic character but replaces sulfur-containing
+methionine with leucine.
+Possible effect: local packing/environmental change.
+
+NDM-5
+Sequence changes: V88L + M154L
+V88-CG1 to Zn: 16.29 Å
+M154-SD to Zn: 9.33 Å
+
+Interpretation:
+V88 is far from the observed Zn site.
+V88L is a conservative hydrophobic substitution.
+Possible effect: local packing/shape change.
+
+NDM-7
+Sequence changes: D130N + M154L
+D130-OD1 to Zn: 18.74 Å
+D130-OD2 to Zn: 18.00 Å
+D130-CG to M154-SD: 9.39 Å
+
+Interpretation:
+D130 is not a direct Zn ligand.
+D130N removes the negative charge of Asp while retaining a polar side chain.
+Possible effect: local electrostatic/hydrogen-bond environment.
+
+LIMITATION:
+These measurements do not establish effects on catalytic activity,
+Zn affinity, substrate binding, or antibiotic resistance phenotype.

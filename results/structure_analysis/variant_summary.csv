@@ -1,0 +1,4 @@
+Variant,Substitution,Zn_distance_A,Local_structural_evidence,Interpretation
+NDM-4,M154L,9.33,Near His122 region; M154-SD to His122 backbone C = 3.77 A,Possible local packing/environment effect; not direct Zn coordination
+NDM-5,V88L + M154L,16.29 (V88 CG1); 9.33 (M154 SD),V88 in locally packed region; M154 near His122 region,Possible local structural effects; individual effects cannot be separated
+NDM-7,D130N + M154L,18.00 (D130 OD2); 9.33 (M154 SD),D130 near Asp95/Met129/Ala131/Val155,Possible electrostatic/H-bond effect for D130N and local packing effect for M154L
