@@ -46,6 +46,30 @@ The structural measurements in this project do not establish changes in catalyti
 PDB 3ZR9 is an engineered NDM-1 beta-lactamase fragment (residues 42-270), rather than an untouched full-length native protein. The observed zinc-site geometry should therefore be interpreted specifically within the experimental structure analyzed.
 
 ## Project Structure
+The repository is organized as follows:
+
+ndm-variant-structural-analysis/
+├── data/
+│   ├── NDM-1_C7C422.fasta
+│   ├── NDM-4_A0A0G2ST15.fasta
+│   ├── NDM-5_U5TTL2.fasta
+│   ├── NDM-7_X5CZV5.fasta
+│   └── structures/
+│       └── 3ZR9.pdb
+├── results/
+│   ├── phase_B_variant_selection.csv
+│   ├── phase_B_structural_variant_analysis.txt
+│   ├── phase_B_sequence_comparison.csv
+│   ├── phase_B_sequence_comparison_notes.txt
+│   ├── structure_3ZR9_notes.txt
+│   └── structure_analysis/
+│       ├── variant_evidence.txt
+│       ├── variant_summary.csv
+│       └── variant_zinc_distances.png
+├── scripts/
+│   └── plot_variant_distances.py
+├── .gitignore
+└── README.md
 
 
 
